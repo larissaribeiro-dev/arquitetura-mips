@@ -1,4 +1,4 @@
-# MIPS-PROCESSADOR
+# mips-processador
 
 🚧 **Projeto em construção** 🚧
 
