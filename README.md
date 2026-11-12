@@ -13,6 +13,10 @@ O projeto também envolve a execução e validação dos códigos em FPGA, permi
 - Analisar a representação binária das instruções.
 - Realizar testes e validações utilizando FPGA.
 
+## Fluxo do projeto
+
+C → Assembly MIPS → Código de máquina (binário) → Execução na FPGA
+
 ## Etapas do projeto
 
 - [ ] Implementação do algoritmo de ordenação em C.
@@ -21,12 +25,28 @@ O projeto também envolve a execução e validação dos códigos em FPGA, permi
 - [ ] Testes e validação em FPGA.
 - [ ] Documentação dos resultados.
 
+## Estrutura planejada
+
+- `c/`: algoritmo de ordenação em C
+- `asm/`: código em Assembly MIPS
+- `bin/`: instruções em código de máquina
+- `docs/`: documentação e resultados dos testes
+
 ## Tecnologias e ferramentas
 
 - Linguagem C
 - Assembly MIPS
 - Código de máquina (binário)
 - FPGA
+
+## Acompanhamento
+
+O andamento do projeto é registrado nas [issues](../../issues) do repositório.
+
+## Autora
+
+Larissa Ribeiro, graduanda em Engenharia da Computação (UFAM)
+[LinkedIn](https://www.linkedin.com/in/larissaribeiro-dev)
 
 ---
 
