@@ -1,23 +1,33 @@
-# MIPS-PROCESSADOR
+# Arquitetura MIPS
 
-🚧 **Projeto em construção** 🚧
+🚧 **Projeto em desenvolvimento** 🚧
 
-Este repositório vai reunir os arquivos do meu projeto de processador MIPS.
-Por enquanto ainda não há nada por aqui, mas em breve o conteúdo será adicionado.
+Repositório dedicado ao estudo e à experimentação da arquitetura MIPS, explorando o processo de tradução de algoritmos escritos em C para Assembly MIPS e sua representação em código de máquina (binário).
 
-## Status
+O projeto também envolve a execução e validação dos códigos em FPGA, permitindo acompanhar na prática o funcionamento da arquitetura.
 
-- [ ] Estrutura inicial do repositório
-- [ ] Código do processador
-- [ ] Testbenches e simulações
-- [ ] Documentação
+## Objetivos
 
-## Em breve
+- Compreender a organização e o funcionamento da arquitetura MIPS.
+- Explorar a tradução de programas em C para Assembly MIPS.
+- Analisar a representação binária das instruções.
+- Realizar testes e validações utilizando FPGA.
 
-- Descrição completa do projeto
-- Arquitetura do processador
-- Instruções de uso e simulação
+## Etapas do projeto
+
+- [ ] Implementação do algoritmo de ordenação em C.
+- [ ] Conversão do código para Assembly MIPS.
+- [ ] Análise e conversão das instruções para código binário.
+- [ ] Testes e validação em FPGA.
+- [ ] Documentação dos resultados.
+
+## Tecnologias e ferramentas
+
+- Linguagem C
+- Assembly MIPS
+- Código de máquina (binário)
+- FPGA
 
 ---
 
-Volte em breve para acompanhar o progresso! 🙂
+📚 Projeto acadêmico desenvolvido como parte dos estudos de Arquitetura de Computadores.
